@@ -1,2 +1,2 @@
 # GEOINFORMATICS-NOTES
-口试需要背的笔记
+POLIMI-口试需要背的笔记
