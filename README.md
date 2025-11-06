@@ -1,1 +1,2 @@
 # GEOINFORMATICS-NOTES
+口试需要背的笔记
